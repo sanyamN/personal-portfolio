@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Sanyam Tripathi
 
-## Getting Started
+Software Development Engineer passionate about building scalable backend systems, cloud-native applications, and AI-powered software.
 
-First, run the development server:
+## 🌐 Live Portfolio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 https://personal-portfolio-kohl-pi-29.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About This Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This repository contains my personal portfolio built to showcase my experience, technical skills, and software engineering projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The portfolio includes:
 
-## Learn More
+- Professional introduction
+- Featured projects
+- Work experience
+- Technical skills
+- Resume download
+- Contact information
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Icons
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📂 Featured Projects
 
-## Deploy on Vercel
+### Amazon – Critical Incident Management Dashboard
+Designed and developed a production dashboard to help engineers monitor and resolve critical incidents efficiently.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Amazon – AI Agent Reporting Platform
+Built an AI-powered reporting platform that streamlined migration tracking and automated reporting workflows.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Crypto Trade Simulator
+Developed a simulator using live order book data with execution strategies and market analytics.
+
+### Fashion Recommendation System
+Built a deep-learning recommendation engine using ResNet-50 for personalized clothing recommendations.
+
+## 📸 Portfolio Preview
+
+> Screenshot coming soon.
+
+## 📬 Contact
+
+- Email: **sanyamtripathi832000@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/sanyam-tripathi-16423330a/
+- GitHub: https://github.com/sanyamN
+
+---
+
+⭐ If you like this project, feel free to star the repository.
