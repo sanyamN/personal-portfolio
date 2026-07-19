@@ -1,58 +1,123 @@
-# 👋 Hi, I'm Sanyam Tripathi
+# Personal Portfolio
 
-Software Development Engineer passionate about building scalable backend systems, cloud-native applications, and AI-powered software.
+A modern, responsive portfolio website built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS** to showcase software engineering projects, professional experience, technical skills, and contact information.
 
-## 🌐 Live Portfolio
+## 🌐 Live Demo
 
-🔗 https://personal-portfolio-kohl-pi-29.vercel.app/
+**Portfolio:**  
+https://personal-portfolio-kohl-pi-29.vercel.app/
 
-## 🚀 About This Project
+---
 
-This repository contains my personal portfolio built to showcase my experience, technical skills, and software engineering projects.
+## ✨ Features
 
-The portfolio includes:
-
-- Professional introduction
-- Featured projects
-- Work experience
-- Technical skills
+- Responsive design for desktop and mobile
+- Modern dark-themed UI
+- Professional landing page
+- Featured projects showcase
+- Experience timeline
+- Technical skills section
 - Resume download
-- Contact information
+- Contact section
+- Automatic deployment with Vercel
+
+---
 
 ## 🛠️ Tech Stack
 
-- Next.js 16
-- React 19
+### Frontend
+- Next.js
+- React
 - TypeScript
 - Tailwind CSS
+
+### UI & Animation
 - Framer Motion
 - Lucide React
 - React Icons
 
-## 📂 Featured Projects
-
-### Amazon – Critical Incident Management Dashboard
-Designed and developed a production dashboard to help engineers monitor and resolve critical incidents efficiently.
-
-### Amazon – AI Agent Reporting Platform
-Built an AI-powered reporting platform that streamlined migration tracking and automated reporting workflows.
-
-### Crypto Trade Simulator
-Developed a simulator using live order book data with execution strategies and market analytics.
-
-### Fashion Recommendation System
-Built a deep-learning recommendation engine using ResNet-50 for personalized clothing recommendations.
-
-## 📸 Portfolio Preview
-
-> Screenshot coming soon.
-
-## 📬 Contact
-
-- Email: **sanyamtripathi832000@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/sanyam-tripathi-16423330a/
-- GitHub: https://github.com/sanyamN
+### Deployment
+- Vercel
+- GitHub
 
 ---
 
-⭐ If you like this project, feel free to star the repository.
+## 📁 Project Structure
+
+```text
+.
+├── app/
+├── components/
+├── public/
+├── styles/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sanyamN/personal-portfolio.git
+```
+
+Go to the project directory:
+
+```bash
+cd personal-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 🌍 Deployment
+
+The project is deployed on **Vercel**.
+
+Live URL:
+
+**https://personal-portfolio-kohl-pi-29.vercel.app/**
+
+---
+
+## 📌 Future Improvements
+
+- Project screenshots and previews
+- Enhanced animations
+- SEO optimization
+- Blog section
+- Custom domain integration
+
+---
+
+## 👤 Author
+
+**Sanyam Tripathi**
+
+- Portfolio: https://personal-portfolio-kohl-pi-29.vercel.app/
+- GitHub: https://github.com/sanyamN
+- LinkedIn: https://www.linkedin.com/in/sanyam-tripathi-16423330a/
+
+---
+
+If you found this project helpful or interesting, consider giving it a ⭐ on GitHub.
